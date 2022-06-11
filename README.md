@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Chacón</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A front end developer in constant learning🖥️</h3>
 
 - 👨‍💻 All of my projects are available at [https://portafolio-scc.netlify.app/](https://portafolio-scc.netlify.app/)
 
