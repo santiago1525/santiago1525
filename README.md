@@ -51,11 +51,11 @@ Trabajo con **desarrollo web y móvil**, **procesamiento de señales fisiológic
 ---
 
 ## 📌 Áreas de interés
-- Desarrollo de **aplicaciones biomédicas**.
-- **Procesamiento de señales fisiológicas** (ECG, EEG, SpO₂).
-- **Internet of Things (IoT)** aplicado a salud.
-- **Interfaces gráficas** y visualización de datos médicos.
-- **Sistemas embebidos** para monitoreo y control.
+ Desarrollo de **aplicaciones biomédicas**.
+ **Procesamiento de señales fisiológicas** (ECG, EEG, SpO₂).
+ **Internet of Things (IoT)** aplicado a salud.
+ **Interfaces gráficas** y visualización de datos médicos.
+ **Sistemas embebidos** para monitoreo y control.
 
 ---
 
