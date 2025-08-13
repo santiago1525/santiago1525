@@ -1,10 +1,72 @@
-<h1 align="center">Hi 👋, I'm Santiago Chacón</h1>
-<h3 align="center">A front-end web developer in constant learning from Colombia🖥️</h3> <br>
-<h4 align="center"> 👨‍💻 All of my projects and my contact links are available at 👉 https://portafolio-scc.netlify.app/ 👈</h4>
+<!-- README.md -->
 
-</br>
+<div align="center">
+  
+# 👋 ¡Hola! Soy **Santiago Chacón Cortés**
+  
+🎓 Estudiante de **Ingeniería Biomédica** (9° semestre)  
+💻 Apasionado por la **programación, electrónica, sistemas embebidos** y el estudio fisiológico del cuerpo humano.  
+📍 Bogotá, Colombia | Universidad Militar Nueva Granada  
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> &nbsp</a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp</a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> &nbsp</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Sobre mí
+
+Soy un desarrollador en formación que combina la ingeniería biomédica con la tecnología para crear soluciones innovadoras en salud.  
+Trabajo con **desarrollo web y móvil**, **procesamiento de señales fisiológicas** y **diseño de interfaces**, siempre buscando unir el mundo clínico con el tecnológico.
+
+---
+
+## 🛠 Lenguajes y Tecnologías
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br>React / React Native
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
+<br>MATLAB
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
+<br>Arduino
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Áreas de interés
+- Desarrollo de **aplicaciones biomédicas**.
+- **Procesamiento de señales fisiológicas** (ECG, EEG, SpO₂).
+- **Internet of Things (IoT)** aplicado a salud.
+- **Interfaces gráficas** y visualización de datos médicos.
+- **Sistemas embebidos** para monitoreo y control.
+
+---
+
+## 📫 Contacto
+<a href="mailto:santiagodev1525@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+
+---
+
+💡 *"La tecnología es el puente entre la ciencia y la solución de problemas reales."*
+
+</div>
+
 
 
