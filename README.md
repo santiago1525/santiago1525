@@ -63,6 +63,9 @@ Trabajo con **desarrollo web y móvil**, **procesamiento de señales fisiológic
 
 ---
 
+## 💼 Portafolio
+<a href="https://portafolio-scc.netlify.app/"> <img src="https://img.shields.io/badge/Portafolio-Web-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Web"/></a>
+
 ## 📫 Contacto
 <a href="mailto:santiagodev1525@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
