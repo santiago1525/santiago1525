@@ -4,7 +4,7 @@
   
 # 👋 ¡Hola! Soy **Santiago Chacón Cortés**
   
-🎓 Estudiante de **Ingeniería Biomédica** (9° semestre)  
+🎓 Ingeniero Biomedico 
 💻 Apasionado por la **programación, electrónica, diseño UI/UX** y el estudio fisiológico del cuerpo humano.  
 📍 Bogotá, Colombia | Universidad Militar Nueva Granada  
 
